@@ -12,11 +12,10 @@ Olá! Meu nome é Dr.Maria Nikaeli e sou graduada em Medicina Veterinária pela 
 O objetivo deste portfólio é apresentar as minhas competências, experiências e áreas de interesse dentro da Medicina Veterinária. Espero que este material ajude a demonstrar meu comprometimento e dedicação à profissão.
 Bacharelado em Medicina Veterinária
 Universidade de São Paulo (USP)
-Ano de Conclusão: 2029
+Ano de Conclusão: 2031
 
 Especialização em Clínica e Cirurgia de Pequenos Animais
 Universidade Estadual Paulista (UNESP)
-Previsão de Conclusão: 2029
 
 Certificação em Atendimento de Urgência Veterinária
 Instituto de Ciências Veterinárias
