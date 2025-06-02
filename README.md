@@ -1,4 +1,4 @@
-# repositorio
+
 Nome completo: Dr. Maria Nikaeli
 Título: de Medicina Veterinária
 Contato: (17) 997872926
@@ -7,7 +7,7 @@ E-mail: marianikaelimaximo109@gmail.com
 
 
 
-Olá! Meu nome é Dr.Maria Nikaeli e sou graduada em Medicina Veterinária pela Universidade de São Paulo (USP). Desde o início da minha formação, sempre tive uma paixão por cuidar dos animais e buscar formas inovadoras de tratá-los com qualidade e humanidade. Tenho experiência em clínicas veterinárias, hospitais de grande porte e participei de diversos projetos de pesquisa na área de doenças infecciosas em animais de companhia.
+Olá! Eu sou a Dr.Maria Nikaeli e sou graduada em Medicina Veterinária pela Universidade de São Paulo (USP). Desde o início da minha formação, sempre tive uma paixão por cuidar dos animais e buscar formas inovadoras de tratá-los com qualidade e humanidade. Tenho experiência em clínicas veterinárias, hospitais de grande porte e participei de diversos projetos de pesquisa na área de doenças infecciosas em animais de companhia.
 
 O objetivo deste portfólio é apresentar as minhas competências, experiências e áreas de interesse dentro da Medicina Veterinária. Espero que este material ajude a demonstrar meu comprometimento e dedicação à profissão.
 Bacharelado em Medicina Veterinária
